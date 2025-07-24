@@ -1,4 +1,4 @@
-package com.tnsif.dayfour.firstpackage;
+package com.tnif.dayfour.firstpackage;
 
 public class Person {
 	private String personName;

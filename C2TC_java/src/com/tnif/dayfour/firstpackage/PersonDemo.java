@@ -1,5 +1,4 @@
-//Program to demonstrate creating objects
-package com.tnsif.dayfour.firstpackage;
+package com.tnif.dayfour.firstpackage;
 
 import java.util.Scanner;
 
@@ -21,12 +20,13 @@ public class PersonDemo {
 		p1.setPersonCity(city);
 		System.out.println("Person Details Name : " + p1.getPersonName() + "\tAge : " + p1.getPersonAge() + "\tCity : "
 				+ p1.getPersonCity());
-        System.out.println("Enter Person details : Name, age and city");
+
+		System.out.println("Enter Person details : Name, age and city");
 		name = sc.nextLine();
 		age = sc.nextInt();
 		sc.nextLine();
 		city = sc.nextLine();
-		p1= new Person(name, age, city); // parameterized constructor invoked);
+		p1 = new Person(name, age, city); // parameterized constructor invoked);
 		System.out.println("Person Details Name : " + p1.getPersonName() + "\tAge : " + p1.getPersonAge() + "\tCity : "
 				+ p1.getPersonCity());
 		sc.close();

@@ -1,4 +1,4 @@
-package day2;
+package com.tnif.daytwo;
 
 public class Nestedifelse {
 public static void main(String[] args) {

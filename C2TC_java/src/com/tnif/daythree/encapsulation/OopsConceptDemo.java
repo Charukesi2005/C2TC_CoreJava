@@ -1,4 +1,4 @@
-package day3.encapsulation;
+package com.tnif.daythree.encapsulation;
 
 public class OopsConceptDemo {
 	private int serialNum;

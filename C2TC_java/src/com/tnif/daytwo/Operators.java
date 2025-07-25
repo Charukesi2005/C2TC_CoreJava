@@ -1,4 +1,4 @@
-package day2;
+package com.tnif.daytwo;
 
 public class Operators {
 	public static void main(String args[]) {

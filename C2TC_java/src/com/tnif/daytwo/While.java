@@ -1,4 +1,4 @@
-package day2;
+package com.tnif.daytwo;
 
 public class While {
 	public static void main(String[] args) 

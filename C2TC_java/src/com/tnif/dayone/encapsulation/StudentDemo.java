@@ -1,4 +1,4 @@
-package day1.encapsulation;
+package com.tnif.dayone.encapsulation;
 
 public class StudentDemo {
 public static void main(String[]args) {
